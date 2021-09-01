@@ -2,7 +2,7 @@
 Install dependencies: <br />
 npm i
 
-##### If pre-commit on husky not working run these commands in order
+### If pre-commit on husky not working run these commands in order
 ###### NPM
 npm uninstall husky <br />
 npm install -D husky@4
