@@ -9,7 +9,7 @@ npm install -D husky@4
 ###### try running test commit here to see if pre-commit works
 npm install -D husky
 
-######YARN
+###### YARN
 yarn remove husky
 yarn add -D husky@4
 ###### try running test commit here to see if pre-commit works
