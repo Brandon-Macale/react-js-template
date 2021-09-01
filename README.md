@@ -2,15 +2,15 @@
 Install dependencies: <br />
 npm i
 
-# If pre-commit on husky not working
-# NPM
+If pre-commit on husky not working
+NPM
 npm uninstall husky
 
 npm install -D husky@4
 
 npm install -D husky
 
-# YARN
+YARN
 yarn remove husky
 
 yarn add -D husky@4
