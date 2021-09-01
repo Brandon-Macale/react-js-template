@@ -1,5 +1,5 @@
 # Getting Started
-Install dependencies: <br />
+### Install dependencies: <br />
 npm i
 
 ### If pre-commit on husky not working run these commands in order
