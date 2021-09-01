@@ -3,8 +3,8 @@
 npm i
 
 ### Usage:
-show linting errors to console: npm run lint
-fix linting errors: npm run lint:fix
+show linting errors to console: npm run lint <br />
+fix linting errors: npm run lint:fix <br />
 
 ### If pre-commit on husky not working run these commands in order
 ###### NPM
