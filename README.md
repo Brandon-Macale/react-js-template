@@ -4,13 +4,13 @@ npm i
 
 ##### If pre-commit on husky not working run these commands in order
 ###### NPM
-npm uninstall husky
+npm uninstall husky <br />
 npm install -D husky@4
 ###### try running test commit here to see if pre-commit works
 npm install -D husky
 
 ###### YARN
-yarn remove husky
+yarn remove husky <br />
 yarn add -D husky@4
 ###### try running test commit here to see if pre-commit works
 yarn add -D husky
